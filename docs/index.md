@@ -6,6 +6,9 @@ hero:
   name: "圣哥文档库"
   text: ""
   tagline: 好记性不如烂笔头
+  image:
+    src: /brothersheng.png
+    alt: 头像
   actions:
     - theme: brand
       text: Markdown Examples
